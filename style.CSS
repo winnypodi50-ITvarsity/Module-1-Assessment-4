@@ -1,0 +1,18 @@
+th{
+	background-color:#4000FF;
+    color: #ffffff;
+    font-weight: 800; 
+}
+
+td{
+	font-weight: 500;
+	text-decoration: line-through;
+}
+
+table{
+	font-family: Helvetica, sans-serif;
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #4000FF;
+}
